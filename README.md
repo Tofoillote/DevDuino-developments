@@ -1,8 +1,11 @@
-# DevDuino-developments
-Devduino developments atempts.
+# DevDuino Joysticks developments
 
-These are exemples of my works with Devduino board https://devduino.cc/
+These are my "from scratch" interpretation of the use of Joysticks.
+Read the Joystick X and Y returned values, relay those value to PWM and logical outpouts to drive some motor controler boards.
 
-The whole job focuses on adding motors to wheelchair for my personnal experience.
+Works with potentiometer and hall effect joysticks.
 
-Thanks to Alexandre Pailhoux making it real via https://www.kickstarter.com/projects/1799914219/devduino-the-best-way-to-learn-and-explore-arduino
+
+The whole job focuses on adding motors to wheelchair for added freem and independence experience.
+
+Thanks to Alexandre Pailhoux Devduino board https://devduino.cc/ making it real via his Kickstarter campaign.
